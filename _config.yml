@@ -32,9 +32,6 @@ toc:
     h_min: 1
     h_max: 3
 
-# Permalinks
-#permalink:        /:categories/:year-:month-:day-:title:output_ext
-
 exclude:
   - _drafts
 

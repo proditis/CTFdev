@@ -8,9 +8,17 @@ description: >-
 
 The following is a collection of information, advises and tips for CTF organizers, developers and content creators.&#x20;
 
-This is not intended for as a CTF player field guide,there are some excellent resources on the subject.
+This is not intended to be used as a CTF players field guide,there are some excellent resources on the subject.
 
 If you ever wanted to organize and conduct a CTF or you want to learn how to create challenges and target machines this is going to help you.
+
+### Fair warning
+
+This is still heavily WIP, at this time it more like a dump of the things I would like to cover rather than a logically structured book but it will get there.
+
+I am not a native english speaker and as such you may find a lot of typos (i try to keep them as low as i can) and a lot of hard to comprehend paragraphs.&#x20;
+
+It may be a bit more difficult to read but i would like to believe that the main ideas behind it will be understood.
 
 ## Who?
 
@@ -19,6 +27,8 @@ I am one of the main developers of [https://echoCTF.RED](https://echoctf.red/) a
 We have been using this platform for the past 10 years to conduct some of the most spectacular capture the flag competitions.&#x20;
 
 This book will try to encapsulate this knowledge of the past 10 years in a way that will be easily understood.
+
+This does not mean that I am an authority on the subject, it just means i've seen a lot instances.
 
 ## Why?
 

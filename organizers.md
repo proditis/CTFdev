@@ -6,11 +6,9 @@ description: So you or your company or group of friends want to organize a CTF?
 
 ### Plan ahead for some failures
 
-A CTF is like any other live performance, things can and _will_ go wrong. A good organizer knows it, expects it and is ready with fallback plans.
+A CTF is like any other live performance, things can and will go wrong. A good organizer knows and expects that and is ready with fallback plans.
 
-As an organizer be ready for some things to go unexpectedly wrong, from the smallest to the biggest of issues.
-
-Dont panic and keep your calm many times things look worse than actually is.
+As an organizer be ready for some things to go unexpectedly werong, from the smallest to the biggest of issues.
 
 ### It is not about you, it is for the participants to enjoy
 
@@ -18,19 +16,15 @@ One of the things we usually say to the organizers we work with is:
 
 > **Our main obligations are first and foremost towards the players and secondary to any other needs of the event**
 
-The main reason for that is that if the players are satisfied and enjoy their time playing, then any potential message or scope of the event will also have better chances to be received.
+The main reason for that is that if the players are satisfied and enjoy their time, then any potential message or scope of the event will also have better chances to be received.
 
 ### Players are always right, even when they're not
 
-Many times you will receive complaints from players that have a problem and who feel that since you are the organizer you will have some better effect on the support team of the CTF.&#x20;
+Many times you will receive complaints from players that have an issue and who feel that since you are the organizer you will have some better effect on the team conducting the CTF.
 
-Dont do that, instead calmly direct the players to the support team. If you know that someone from the team is better suited to solve the specific problem (good for you), direct the player to them. Otherwise the support team leader should be more than enough to resolve any problem or "dispute".
+Even though things may sound greek to you, try to pay attention at what they're saying. Often times they just want to vend off some of the frustration. Having someone to listen to their issue help to ease them out.
 
-Dont dismiss the players even if you're "sure" they are wrong. Try to sympathize but not too much, you dont want them complaining during the entire competition because you were overly jealous to sympathize :smile:&#x20;
-
-At the same time dont side with them, there is nothing more annoying than a player complaining all the time while they drag your name into the conversation.
-
-You are the organizer not the support team, you will have your mind on so many other things, its better to keep some roles clear. Support team for support, organizer for organization things :joy:&#x20;
+Dont dismiss them and dont side with them (unless there is a clear indication of misconducting from the CTF conducting team).
 
 ### Give enough time
 

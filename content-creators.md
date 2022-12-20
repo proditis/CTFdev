@@ -18,11 +18,13 @@ Depending on the team that provides support to the players some of these documen
 
 ### Keep local copies
 
-In this day and age its hard to believe that anyone would want to keep a "backup" of a publicly accessible github repo but you'll be surprised at that can happen between the time of your 1st idea and when the challenge runs.
+In this day and age its hard to believe that anyone would want to keep a "backup" of a publicly accessible github repo but you'll be surprised at what can happen between the time you conceive your idea, develop and finally run it.
 
-Repositories get moved around without notice, others truncate their history, other close all together, others will remove their vulnerable release version, other projects change names repos and history altogether. These and many more similar cases await you.
+Repositories get moved around without notice, others truncate their history, others close all together, others will remove their vulnerable release version, other projects change names repos and history altogether. These and many more similar cases await you.
 
-Create a folder, say `./assets/`, and use it to store there releases and the versions of packages that your challenge or machine depends on.
+Create a folder, say `./assets/`, and use it to store there releases and the specific packages that your challenge or machine depends on.
+
+You will thank me later for that...
 
 ### Its not you vs players
 

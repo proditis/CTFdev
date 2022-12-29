@@ -1,15 +1,18 @@
----
-description: So you want to create your neat challenges and machines?
----
+# 👍 Rules of Thumb
 
-# Content Creators
+### Documentation rules them all
 
-### Document, document, document
+I will not sugar coat this, this is the hardest part of every challenge for me. There are never enough details that you can put into the document. Your players will always ask something that you haven't predicted and you'll have to go to the source code of the challenge.
 
-It sounds simpler than it is but try to document everything you do. I like to keep at least 3 different documents per challenge/machine:
+What I do to keep those to a minimum are as follows:
 
-* `ADMINISTRATOR.md`: With installation, administration, download and other such details
-* `README.md`: A general purpose documentation that outlines some basic concepts of the challenge / machine
+* All challenges are on a single repository
+* Each challenge has its own `README.md`  general purpose documentation that outlines some basic concepts of the challenge / machine explaining
+  * the premise of the scenario
+  * solution steps (eg `1. user does that...`)
+  * references to sources and material used during build
+  * exploitation, detailed exploitation steps with copy/paste-able material
+* Challenges that run complicated applications also have an `ADMINISTRATOR.md` with administrative details and commands used to manage them
 * `WRITEUP.md`: A complete solution, preferably written by someone else who will also provide feedback
 
 ### The documentation is not just for you
@@ -89,5 +92,18 @@ There is only **ONE** reason you make a challenge and that is to be **SOLVED** (
 
 Keep in mind that this does not include challenges that players were unable to complete due to time running out. We're talking about challenges that under no normal circumstances someone could have solved them in the given time of the entire CTF.
 
+### docker containers
 
+#### **volumes**
 
+Make sure your container images have no volumes. Volumes solve a very specific problem with containers and that is _persistent storage_. Volumes allow containers to store data to be used and shared among them, even across restarts.
+
+Volumes can be defined using the `VOLUME` statement inside your `Dockerfile` or by using an image that already has one, such as mysql. The first case is easy to spot, check your `Dockerfile` for `VOLUME` statements, in the later case though it gets a bit trickier.
+
+The only 100% way to avoid having volumes inherited by your containers, is to write the entire `Dockerfile` yourself. The usual `docker inspect`, `docker image inspect` commands will come in handy, as well as `docker volume ls`.
+
+As a last resort you can always run the image and see what volumes got created 😂
+
+#### **readonly**
+
+#### **healthchecks**

@@ -1,18 +1,18 @@
 ---
-description: So you or your company or group of friends want to organize a CTF?
+description: A list of some rules of thumb for organizers
 ---
 
-# Organizers
+# 👍 Rules of Thumb
 
-### Plan ahead for some failures
+## Plan ahead for some failures
 
 A CTF is like any other live performance, things can and _will_ go wrong. A good organizer knows it, expects it and is ready with fallback plans.
 
 As an organizer be ready for some things to go unexpectedly wrong, from the smallest to the biggest of issues.
 
-Dont panic and keep your calm many times things look worse than actually is.
+Don't panic and keep your calm, many times things look worse than actually is.
 
-### It is not about you, it is for the participants to enjoy
+## It is not about you, it is for the participants to enjoy
 
 One of the things we usually say to the organizers we work with is:
 
@@ -20,7 +20,7 @@ One of the things we usually say to the organizers we work with is:
 
 The main reason for that is that if the players are satisfied and enjoy their time playing, then any potential message or scope of the event will also have better chances to be received.
 
-### Players are always right, even when they're not
+## Players are always right, even when they're not
 
 Many times you will receive complaints from players that have a problem and who feel that since you are the organizer you will have some better effect on the support team of the CTF.&#x20;
 
@@ -32,11 +32,10 @@ At the same time dont side with them, there is nothing more annoying than a play
 
 You are the organizer not the support team, you will have your mind on so many other things, its better to keep some roles clear. Support team for support, organizer for organization things :joy:&#x20;
 
-### Give enough time
+## Give enough time
 
 Give plenty of time for the CTF to be developed. Don't wait until the last week. I know it sounds simple to many, but its not.&#x20;
 
 Designing and developing quality challenges that can be enjoyed by everyone that will participate takes time.&#x20;
 
 If you only give a small amount of time to the team that will do development for you then be ready for some copy/paste challenges.
-

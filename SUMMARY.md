@@ -6,7 +6,7 @@
   * [Why?](readme/why.md)
 * [Organizers](organizers/README.md)
   * [👍 Rules of Thumb](organizers/rules-of-thumb.md)
-* [Developers](developers/README.md)
+* [Developers](developers.md)
   * [It is NOT just the UI](developers/it-is-not-just-the-ui.md)
   * [Forget the BETA notion](developers/forget-the-beta-notion.md)
   * [Security is PARAMOUNT](developers/security-is-paramount.md)

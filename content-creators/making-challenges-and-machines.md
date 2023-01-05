@@ -6,7 +6,7 @@ description: How hard can it be?
 
 ## ❓Why do it?
 
-Why learn how to do something like this though? I can tell some of the reasons why love developing challenges and targets for our platform.
+Why learn how to do something like this though? I can tell some of the reasons why I personally love developing challenges and targets for our platform.
 
 As a developer of targets and challenges I get to:
 

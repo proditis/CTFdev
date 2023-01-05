@@ -11,6 +11,8 @@
   * [Forget the BETA notion](developers/forget-the-beta-notion.md)
   * [Security is PARAMOUNT](developers/security-is-paramount.md)
   * [There will be some failures](developers/there-will-be-some-failures.md)
+  * [Use your imagination](developers/use-your-imagination.md)
+  * [Documentation equals Contributions](developers/documentation-equals-contributions.md)
 * [Content Creators](content-creators/README.md)
   * [Making Challenges and Machines](content-creators/making-challenges-and-machines.md)
   * [👍 Rules of Thumb](content-creators/rules-of-thumb.md)

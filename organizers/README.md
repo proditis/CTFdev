@@ -16,10 +16,4 @@ So you've decided to organize a CTF and you have no idea where to start, here ar
 * who is responsible for what? who's speaking with the sponsors, who's dealing with player questions, who's going to provide support during the event?
 * what is the end goal for the CTF? have fun? advertise a service? promote a conference? discover talent?
 * what is the intended and expected participant experience level?
-
-
-
-
-
-###
-
+* are you planing on doing it your self or hire a company for it?

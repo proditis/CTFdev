@@ -1,0 +1,66 @@
+site_name: CTFdev
+site_author: Pantelis Roditis
+site_description: A collection of Tips & Tricks for CTF Organizers, Developers, Content creators and Sponsors
+repo_url: https://github.com/proditis/CTFdev
+
+theme:
+  name: material
+  palette:
+    scheme: slate          # Dark mode
+    primary: black
+    accent: lime
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.footer
+    - navigation.sections
+    - toc.integrate
+    - content.action.edit
+    - content.action.view
+    - content.tooltips
+plugins:
+  - glightbox
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - footnotes
+  - smarty
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.blocks.caption
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+
+nav:
+  - CTFdev: README.md
+  - Organizers: Organizers.md
+  - Developers: Developers.md
+  - Content Creators: Content-Creators.md
+  - Support Team: Support-Team.md
+  - Sponsors: Sponsors.md
+  - Horror Stories: Horror-Stories.md

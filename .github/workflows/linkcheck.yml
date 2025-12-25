@@ -1,6 +1,5 @@
 # Docs: https://github.com/marketplace/actions/markdown-link-check
-
-name: Markdown links checker
+name: linkcheck
 
 on:
   # Trigger the workflow on push or pull requests, but only for the

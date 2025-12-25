@@ -4,7 +4,7 @@ description: The success of every CTF depends on the Support Team
 
 # Support Team
 
-A support team has a somewhat difficult and confusing task during a CTF.&#x20;
+A support team has a somewhat difficult and confusing task during a CTF.
 
 You will be asked for anything and everything. You will be asked to solve technical problems that players may have, such as:
 
@@ -41,7 +41,7 @@ This will help you to get a better sense of the application and some of the term
 
 ### Dont stay close to one team or player
 
-I know it may sound silly but try to avoid staying a lot of time closer to one time over another. Some players will find a reason to complain about injustice if their ego is hurt.&#x20;
+I know it may sound silly but try to avoid staying a lot of time closer to one time over another. Some players will find a reason to complain about injustice if their ego is hurt.
 
 ###
 

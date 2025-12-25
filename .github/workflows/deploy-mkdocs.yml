@@ -28,11 +28,10 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: |
-          pip install mkdocs mkdocs-material
+        run: pip install mkdocs mkdocs-material mkdocs-glightbox pymdown-extensions mkdocs-pymdownx-material-extras
 
       - name: Build site
-        run: mkdocs build --site-dir site
+        run: mkdocs build
 
       - uses: actions/upload-pages-artifact@v3
         with:
